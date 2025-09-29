@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Z4GtsX96w8=",
+  "success": true,
+  "projectFilePath": "/home/j/c# code/Jake Barrington - Iteration/Jake Barrington - Iteration.csproj",
+  "expectedPackageFiles": [
+    "/home/j/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

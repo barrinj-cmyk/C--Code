@@ -1,0 +1,15 @@
+/home/j/c# code/simpleTasks/bin/Debug/net9.0/simpleTasks
+/home/j/c# code/simpleTasks/bin/Debug/net9.0/simpleTasks.deps.json
+/home/j/c# code/simpleTasks/bin/Debug/net9.0/simpleTasks.runtimeconfig.json
+/home/j/c# code/simpleTasks/bin/Debug/net9.0/simpleTasks.dll
+/home/j/c# code/simpleTasks/bin/Debug/net9.0/simpleTasks.pdb
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.AssemblyInfoInputs.cache
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.AssemblyInfo.cs
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.csproj.CoreCompileInputs.cache
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.sourcelink.json
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.dll
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/refint/simpleTasks.dll
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.pdb
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/simpleTasks.genruntimeconfig.cache
+/home/j/c# code/simpleTasks/obj/Debug/net9.0/ref/simpleTasks.dll

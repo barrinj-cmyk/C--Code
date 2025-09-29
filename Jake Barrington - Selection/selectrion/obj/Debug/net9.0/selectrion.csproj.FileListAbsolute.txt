@@ -1,0 +1,15 @@
+/home/j/c# code/selectrion/bin/Debug/net9.0/selectrion
+/home/j/c# code/selectrion/bin/Debug/net9.0/selectrion.deps.json
+/home/j/c# code/selectrion/bin/Debug/net9.0/selectrion.runtimeconfig.json
+/home/j/c# code/selectrion/bin/Debug/net9.0/selectrion.dll
+/home/j/c# code/selectrion/bin/Debug/net9.0/selectrion.pdb
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.AssemblyInfoInputs.cache
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.AssemblyInfo.cs
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.csproj.CoreCompileInputs.cache
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.sourcelink.json
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.dll
+/home/j/c# code/selectrion/obj/Debug/net9.0/refint/selectrion.dll
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.pdb
+/home/j/c# code/selectrion/obj/Debug/net9.0/selectrion.genruntimeconfig.cache
+/home/j/c# code/selectrion/obj/Debug/net9.0/ref/selectrion.dll

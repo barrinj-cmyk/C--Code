@@ -1,0 +1,15 @@
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.AssemblyInfoInputs.cache
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.AssemblyInfo.cs
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.csproj.CoreCompileInputs.cache
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.sourcelink.json
+/home/j/c# code/Jake Barrington - Iteration/bin/Debug/net9.0/Jake Barrington - Iteration
+/home/j/c# code/Jake Barrington - Iteration/bin/Debug/net9.0/Jake Barrington - Iteration.deps.json
+/home/j/c# code/Jake Barrington - Iteration/bin/Debug/net9.0/Jake Barrington - Iteration.runtimeconfig.json
+/home/j/c# code/Jake Barrington - Iteration/bin/Debug/net9.0/Jake Barrington - Iteration.dll
+/home/j/c# code/Jake Barrington - Iteration/bin/Debug/net9.0/Jake Barrington - Iteration.pdb
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.dll
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/refint/Jake Barrington - Iteration.dll
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.pdb
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/Jake Barrington - Iteration.genruntimeconfig.cache
+/home/j/c# code/Jake Barrington - Iteration/obj/Debug/net9.0/ref/Jake Barrington - Iteration.dll

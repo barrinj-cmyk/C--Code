@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QdcM5Fdw1A=",
+  "success": true,
+  "projectFilePath": "/home/j/c# code/selectrion/selectrion.csproj",
+  "expectedPackageFiles": [
+    "/home/j/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

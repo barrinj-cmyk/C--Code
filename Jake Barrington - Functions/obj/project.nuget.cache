@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3evduY8MfAk=",
+  "success": true,
+  "projectFilePath": "/home/j/c# code/Functions/Functions.csproj",
+  "expectedPackageFiles": [
+    "/home/j/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

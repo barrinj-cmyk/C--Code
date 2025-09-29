@@ -1,0 +1,15 @@
+/home/j/c# code/Functions/bin/Debug/net9.0/Functions
+/home/j/c# code/Functions/bin/Debug/net9.0/Functions.deps.json
+/home/j/c# code/Functions/bin/Debug/net9.0/Functions.runtimeconfig.json
+/home/j/c# code/Functions/bin/Debug/net9.0/Functions.dll
+/home/j/c# code/Functions/bin/Debug/net9.0/Functions.pdb
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.AssemblyInfoInputs.cache
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.AssemblyInfo.cs
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.csproj.CoreCompileInputs.cache
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.sourcelink.json
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.dll
+/home/j/c# code/Functions/obj/Debug/net9.0/refint/Functions.dll
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.pdb
+/home/j/c# code/Functions/obj/Debug/net9.0/Functions.genruntimeconfig.cache
+/home/j/c# code/Functions/obj/Debug/net9.0/ref/Functions.dll

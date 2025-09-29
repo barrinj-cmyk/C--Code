@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bxvAqoezuo=",
+  "success": true,
+  "projectFilePath": "/home/j/c# code/simpleTasks/simpleTasks.csproj",
+  "expectedPackageFiles": [
+    "/home/j/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
