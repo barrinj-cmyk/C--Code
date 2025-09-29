@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bAJxC2joN0=",
+  "success": true,
+  "projectFilePath": "/home/j/c# code/Jake Barrington - List Tasks/Jake Barrington - List Tasks.csproj",
+  "expectedPackageFiles": [
+    "/home/j/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

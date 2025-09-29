@@ -1,0 +1,15 @@
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.AssemblyInfoInputs.cache
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.AssemblyInfo.cs
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.csproj.CoreCompileInputs.cache
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.sourcelink.json
+/home/j/c# code/Jake Barrington - List Tasks/bin/Debug/net9.0/Jake Barrington - List Tasks
+/home/j/c# code/Jake Barrington - List Tasks/bin/Debug/net9.0/Jake Barrington - List Tasks.deps.json
+/home/j/c# code/Jake Barrington - List Tasks/bin/Debug/net9.0/Jake Barrington - List Tasks.runtimeconfig.json
+/home/j/c# code/Jake Barrington - List Tasks/bin/Debug/net9.0/Jake Barrington - List Tasks.dll
+/home/j/c# code/Jake Barrington - List Tasks/bin/Debug/net9.0/Jake Barrington - List Tasks.pdb
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.dll
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/refint/Jake Barrington - List Tasks.dll
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.pdb
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/Jake Barrington - List Tasks.genruntimeconfig.cache
+/home/j/c# code/Jake Barrington - List Tasks/obj/Debug/net9.0/ref/Jake Barrington - List Tasks.dll

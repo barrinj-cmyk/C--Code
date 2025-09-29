@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Jake Barrington - List Tasks/1.0.0": {
+        "runtime": {
+          "Jake Barrington - List Tasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jake Barrington - List Tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
