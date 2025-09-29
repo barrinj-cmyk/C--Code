@@ -1,2 +1,3 @@
 # C# Code
- c# code
+
+This is a repositary of my school C# code. 
