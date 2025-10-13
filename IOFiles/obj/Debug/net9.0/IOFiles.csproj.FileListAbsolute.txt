@@ -1,0 +1,15 @@
+/home/j/c# code/IOFiles/bin/Debug/net9.0/IOFiles
+/home/j/c# code/IOFiles/bin/Debug/net9.0/IOFiles.deps.json
+/home/j/c# code/IOFiles/bin/Debug/net9.0/IOFiles.runtimeconfig.json
+/home/j/c# code/IOFiles/bin/Debug/net9.0/IOFiles.dll
+/home/j/c# code/IOFiles/bin/Debug/net9.0/IOFiles.pdb
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.AssemblyInfoInputs.cache
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.AssemblyInfo.cs
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.csproj.CoreCompileInputs.cache
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.sourcelink.json
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.dll
+/home/j/c# code/IOFiles/obj/Debug/net9.0/refint/IOFiles.dll
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.pdb
+/home/j/c# code/IOFiles/obj/Debug/net9.0/IOFiles.genruntimeconfig.cache
+/home/j/c# code/IOFiles/obj/Debug/net9.0/ref/IOFiles.dll
