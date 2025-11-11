@@ -1,0 +1,14 @@
+C:\Users\jakeb\Documents\Code\NovemberTest\bin\Debug\net9.0\NovemberTest.exe
+C:\Users\jakeb\Documents\Code\NovemberTest\bin\Debug\net9.0\NovemberTest.deps.json
+C:\Users\jakeb\Documents\Code\NovemberTest\bin\Debug\net9.0\NovemberTest.runtimeconfig.json
+C:\Users\jakeb\Documents\Code\NovemberTest\bin\Debug\net9.0\NovemberTest.dll
+C:\Users\jakeb\Documents\Code\NovemberTest\bin\Debug\net9.0\NovemberTest.pdb
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\NovemberTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\NovemberTest.AssemblyInfoInputs.cache
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\NovemberTest.AssemblyInfo.cs
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\NovemberTest.csproj.CoreCompileInputs.cache
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\NovemberTest.dll
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\refint\NovemberTest.dll
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\NovemberTest.pdb
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\NovemberTest.genruntimeconfig.cache
+C:\Users\jakeb\Documents\Code\NovemberTest\obj\Debug\net9.0\ref\NovemberTest.dll
